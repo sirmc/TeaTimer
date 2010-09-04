@@ -1,0 +1,1 @@
+ const unsigned char CoffeTeaTimerVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:CoffeTeaTimer  PROJECT:CoffeTeaTimer-" "\n"; const double CoffeTeaTimerVersionNumber __attribute__ ((used)) = (double)0.;

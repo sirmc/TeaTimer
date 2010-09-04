@@ -1,0 +1,685 @@
+TCoffeTeaTimer
+v7
+r0
+t303927169.594202
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/Info.plist" Button_Fun-Info.plist
+cCompileXIB "/Users/Sirmc/Programming/Xcode/Button Fun/MainWindow.xib"
+cCompileXIB "/Users/Sirmc/Programming/Xcode/Button Fun/Button_FunViewController.xib"
+cCpResource build/Debug-iphonesimulator/CoffeTeaTimer.app/coffee.png coffee.png
+cCpResource build/Debug-iphonesimulator/CoffeTeaTimer.app/icon_white.png icon_white.png
+cCpResource build/Debug-iphonesimulator/CoffeTeaTimer.app/white.png white.png
+cCpResource build/Debug-iphonesimulator/CoffeTeaTimer.app/river.wav river.wav
+cCompileXIB "/Users/Sirmc/Programming/Xcode/Button Fun/OptionsViewController.xib"
+cCpResource build/Debug-iphonesimulator/CoffeTeaTimer.app/river.caf river.caf
+cProcessPCH /var/folders/TO/TOiYaXy+HQqEyizfEkknNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-foutsfyixlxdeaexbsqghlovphsu/Button_Fun_Prefix.pch.gch Button_Fun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/main.o "/Users/Sirmc/Programming/Xcode/Button Fun/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/Button_FunAppDelegate.o "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/Button_FunViewController.o "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/OptionsViewController.o "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/CoffeTeaTimer" normal i386
+cGenerateDSYMFile "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app.dSYM" "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/CoffeTeaTimer"
+cTouch "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C65954C0000000000000110
+t1281725772
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004BD2001C0000000000193D80
+t1272053788
+s1654144
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004BD1FFCD0000000000000A22
+t1272053709
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Button_FunViewController-iPad.xib
+c000000004C5D86180000000000007748
+t1281197592
+s30536
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Button_FunViewController.xib
+c000000004C6BF72E00000000000077E5
+t1282144046
+s30693
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Button_Fun_Prefix.pch
+c000000004C419F4E00000000000000BD
+t1279369038
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Classes/../EntryViewController.m
+c000000004C6BE6FF0000000000000929
+t1282139903
+s2345
+i"EntryViewController.h"
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunAppDelegate.h
+c000000004C41A3CF000000000000020B
+t1279370191
+s523
+i<UIKit/UIKit.h>
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunAppDelegate.m
+c000000004C419F4E00000000000007C1
+t1279369038
+s1985
+i"Button_FunAppDelegate.h"
+i"Button_FunViewController.h"
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunViewController.h
+c000000004C6BE8DB0000000000000514
+t1282140379
+s1300
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioToolbox.h>
+i"OptionsViewController.h"
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunViewController.m
+c000000004C6C18E400000000000012AF
+t1282152676
+s4783
+i"Button_FunViewController.h"
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.h
+c000000004C6C0AF900000000000003A4
+t1282149113
+s932
+i<UIKit/UIKit.h>
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m
+c000000004C6D57B20000000000001BBA
+t1282234290
+s7098
+i"OptionsViewController.h"
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.xib
+c000000004C65684C00000000000050E3
+t1281714252
+s20707
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController2.h
+c000000004C6576060000000000000103
+t1281717766
+s259
+i<UIKit/UIKit.h>
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController2.m
+c000000004C6576D7000000000000124D
+t1281717975
+s4685
+i"OptionsViewController.h"
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController2.xib
+c000000004C657606000000000000172B
+t1281717766
+s5931
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Classes/random.h
+c000000004C65758100000000000000E3
+t1281717633
+s227
+i<UIKit/UIKit.h>
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Classes/random.m
+c000000004C657581000000000000112E
+t1281717633
+s4398
+i"random.h"
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/Classes/random.xib
+c000000004C65758100000000000016FB
+t1281717633
+s5883
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/EntryViewController.h
+c000000004C6BE855000000000000028B
+t1282140245
+s651
+i<UIKit/UIKit.h>
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/EntryViewController.m
+c000000004C6BE43200000000000005B3
+t1282139186
+s1459
+i"EntryViewController.h"
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/EntryViewController.xib
+c000000004C6BE75A0000000000005DD4
+t1282139994
+s24020
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/MainWindow-iPad.xib
+c000000004C6196FA0000000000005F12
+t1281464058
+s24338
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/MainWindow.xib
+c000000004C6BE9850000000000006487
+t1282140549
+s25735
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/OptionsViewController.xib
+c000000004C6BFB960000000000005A56
+t1282145174
+s23126
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/TestView.xib
+c000000004C6571370000000000001665
+t1281716535
+s5733
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/Button_FunAppDelegate.o
+t1282234369
+s45844
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/Button_FunViewController.o
+t1282234369
+s60552
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/CoffeTeaTimer.LinkFileList
+c000000004C6D57FA000000000000025A
+t1282234362
+s602
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/EntryViewController.o
+t1282140248
+s44424
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/OptionsViewController-6FEAB9DF2172B061.o
+t1281719391
+s43956
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/OptionsViewController.o
+t1282234369
+s55716
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/OptionsViewController2.o
+t2
+s0
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/main.o
+t1282234369
+s6308
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/random.o
+t2
+s0
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app
+t1282234369
+s442
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app.dSYM
+t1282234369
+s102
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/Button_FunViewController-iPad.nib
+t1281464045
+s3144
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/Button_FunViewController.nib
+t1282234366
+s2588
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/CoffeTeaTimer
+t1282234369
+s35760
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/EntryViewController.nib
+t1282140093
+s2467
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/Info.plist
+t1282234362
+s857
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/MainWindow-iPad.nib
+t1281464073
+s1084
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/MainWindow.nib
+t1282234366
+s1129
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/OptionsViewController.nib
+t1282234367
+s1433
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/OptionsViewController2.nib
+t2
+s0
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/PkgInfo
+t1282234362
+s8
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/TestView.nib
+t2
+s0
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/coffee icon white.png
+t2
+s0
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/coffee icon.png
+t1281178980
+s4686
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/coffee.png
+t1282234366
+s10765
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/icon copy.png
+t2
+s0
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/icon.png
+t1281180099
+s6017
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/icon_white.png
+t1282234366
+s6017
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/iconc.png
+t1281180228
+s10765
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/random.nib
+t2
+s0
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/river.caf
+t1282234367
+s2105242
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/river.wav
+t1282234366
+s13850
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/white.png
+t1282234366
+s5883
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/coffee icon white.png
+c000000004C5D430100000000000016FB
+t1281180417
+s5883
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/coffee icon.png
+c000000004C5D41390000000000001697
+t1281179961
+s5783
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/coffee.png
+c000000004C5D2C090000000000002A0D
+t1281174537
+s10765
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/icon copy.png
+c000000004C5D4011000000000000133E
+t1281179665
+s4926
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/icon.png
+c000000004C5D41A90000000000001781
+t1281180073
+s6017
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/icon_white.png
+c000000004C5D42780000000000001781
+t1281180280
+s6017
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/iconc.png
+c000000004C5D2C090000000000002A0D
+t1281174537
+s10765
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/main.m
+c000000004C419F4E0000000000000174
+t1279369038
+s372
+i<UIKit/UIKit.h>
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/river.caf
+c000000004C3D23360000000000201F9A
+t1279075126
+s2105242
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/river.wav
+c000000003F8E76C0000000000000361A
+t1066301120
+s13850
+
+N/Users/Sirmc/Programming/Xcode/Button Fun/white.png
+c000000004C5D430100000000000016FB
+t1281180417
+s5883
+
+N/var/folders/TO/TOiYaXy+HQqEyizfEkknNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-foutsfyixlxdeaexbsqghlovphsu/Button_Fun_Prefix.pch.gch
+t1282234369
+s13825936
+
+NButton_Fun-Info.plist
+c000000004C61986C00000000000004B3
+t1281464428
+s1203
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303927162#303927162#0(0"0(0#1#0"8614517152#0"0#
+
+CCompileC build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/Button_FunAppDelegate.o "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303927169.226565
+e303927169.409968
+r1
+xCompileC
+xbuild/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/Button_FunAppDelegate.o
+x/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunAppDelegate.m303927169#303927169#0(0"0(0#0#73"/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunAppDelegate.m8605486144#2174"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-generated-files.hmap" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-own-target-headers.hmap" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-all-target-headers.hmap" -iquote "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-project-headers.hmap" "-F/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/include" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/DerivedSources/i386" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/DerivedSources" -include /var/folders/TO/TOiYaXy+HQqEyizfEkknNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-foutsfyixlxdeaexbsqghlovphsu/Button_Fun_Prefix.pch -c "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunAppDelegate.m" -o "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/Button_FunAppDelegate.o"0#
+
+CCompileC build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/Button_FunViewController.o "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303927169.355847
+e303927169.517084
+r1
+xCompileC
+xbuild/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/Button_FunViewController.o
+x/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunViewController.m: In function '-[Button_FunViewController didTap:]':
+o/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunViewController.m:160: warning: unused variable 'value'
+lSLF07#2@84"Compile /Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunViewController.m303927169#303927169#0(244"/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunViewController.m: In function '-[Button_FunViewController didTap:]':/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunViewController.m:160: warning: unused variable 'value'1(22@23"Unused variable 'value'303927169#129#115#0(6@76"/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunViewController.m303845476#160#0#160#0#19"unused variable '*'0(0#0#76"/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunViewController.m8615558208#2180"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-generated-files.hmap" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-own-target-headers.hmap" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-all-target-headers.hmap" -iquote "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-project-headers.hmap" "-F/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/include" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/DerivedSources/i386" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/DerivedSources" -include /var/folders/TO/TOiYaXy+HQqEyizfEkknNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-foutsfyixlxdeaexbsqghlovphsu/Button_Fun_Prefix.pch -c "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/Button_FunViewController.m" -o "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/Button_FunViewController.o"0#
+
+CCompileC build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/EntryViewController.o "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/../EntryViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303833048.146546
+e303833048.235183
+r1
+xCompileC
+xbuild/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/EntryViewController.o
+x/Users/Sirmc/Programming/Xcode/Button Fun/Classes/../EntryViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Sirmc/Programming/Xcode/Button Fun/Classes/../EntryViewController.m:89: warning: property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Sirmc/Programming/Xcode/Button Fun/Classes/../EntryViewController.m:89: warning: property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@82"Compile /Users/Sirmc/Programming/Xcode/Button Fun/Classes/../EntryViewController.m303833048#303833048#0(433"/Users/Sirmc/Programming/Xcode/Button Fun/Classes/../EntryViewController.m:89: warning: property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Sirmc/Programming/Xcode/Button Fun/Classes/../EntryViewController.m:89: warning: property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@124"Property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation303833048#0#213#0(6@74"/Users/Sirmc/Programming/Xcode/Button Fun/Classes/../EntryViewController.m303832703#89#0#89#0#0"0(22@131"Property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation303833048#213#220#0(6@74"/Users/Sirmc/Programming/Xcode/Button Fun/Classes/../EntryViewController.m303832703#89#0#89#0#0"0(0#0#74"/Users/Sirmc/Programming/Xcode/Button Fun/Classes/../EntryViewController.m8617172288#2173"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-generated-files.hmap" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-own-target-headers.hmap" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-all-target-headers.hmap" -iquote "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-project-headers.hmap" "-F/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/include" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/DerivedSources/i386" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/DerivedSources" -include /var/folders/TO/TOiYaXy+HQqEyizfEkknNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-foutsfyixlxdeaexbsqghlovphsu/Button_Fun_Prefix.pch -c "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/../EntryViewController.m" -o "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/EntryViewController.o"0#
+
+CCompileC build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/EntryViewController.o "/Users/Sirmc/Programming/Xcode/Button Fun/EntryViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/OptionsViewController-6FEAB9DF2172B061.o "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303412191.083868
+e303412191.201160
+r1
+xCompileC
+xbuild/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/OptionsViewController-6FEAB9DF2172B061.o
+x/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m303412191#303412191#0(0"0(0#0#73"/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m8617010336#2191"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-generated-files.hmap" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-own-target-headers.hmap" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-all-target-headers.hmap" -iquote "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-project-headers.hmap" "-F/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/include" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/DerivedSources/i386" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/DerivedSources" -include /var/folders/TO/TOiYaXy+HQqEyizfEkknNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-foutsfyixlxdeaexbsqghlovphsu/Button_Fun_Prefix.pch -c "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m" -o "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/OptionsViewController-6FEAB9DF2172B061.o"0#
+
+CCompileC build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/OptionsViewController.o "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303927169.410087
+e303927169.527391
+r1
+xCompileC
+xbuild/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/OptionsViewController.o
+x/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m: In function '-[OptionsViewController viewDidLoad]':
+o/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m:48: warning: unused variable 'test'
+lSLF07#2@81"Compile /Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m303927169#303927169#0(237"/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m: In function '-[OptionsViewController viewDidLoad]':/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m:48: warning: unused variable 'test'1(22@22"Unused variable 'test'303927169#127#110#0(6@73"/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m303927090#48#0#48#0#19"unused variable '*'0(0#0#73"/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m8614200800#2174"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-generated-files.hmap" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-own-target-headers.hmap" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-all-target-headers.hmap" -iquote "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-project-headers.hmap" "-F/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/include" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/DerivedSources/i386" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/DerivedSources" -include /var/folders/TO/TOiYaXy+HQqEyizfEkknNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-foutsfyixlxdeaexbsqghlovphsu/Button_Fun_Prefix.pch -c "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.m" -o "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/OptionsViewController.o"0#
+
+CCompileC build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/OptionsViewController2.o "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController2.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/main.o "/Users/Sirmc/Programming/Xcode/Button Fun/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303927169.225044
+e303927169.355720
+r1
+xCompileC
+xbuild/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/main.o
+x/Users/Sirmc/Programming/Xcode/Button Fun/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Sirmc/Programming/Xcode/Button Fun/main.m303927169#303927169#0(0"0(0#0#48"/Users/Sirmc/Programming/Xcode/Button Fun/main.m8613844672#2132"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-generated-files.hmap" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-own-target-headers.hmap" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-all-target-headers.hmap" -iquote "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-project-headers.hmap" "-F/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/include" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/DerivedSources/i386" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/DerivedSources" -include /var/folders/TO/TOiYaXy+HQqEyizfEkknNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-foutsfyixlxdeaexbsqghlovphsu/Button_Fun_Prefix.pch -c "/Users/Sirmc/Programming/Xcode/Button Fun/main.m" -o "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/random.o "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/random.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/Sirmc/Programming/Xcode/Button Fun/Button_FunViewController-iPad.xib"
+s303156844.637567
+e303156845.362274
+r1
+xCompileXIB
+x/Users/Sirmc/Programming/Xcode/Button Fun/Button_FunViewController-iPad.xib
+lSLF07#2@44"CompileXIB Button_FunViewController-iPad.xib303156844#303156845#0(0"0(0#0#75"/Users/Sirmc/Programming/Xcode/Button Fun/Button_FunViewController-iPad.xib8611108544#691"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/Button_FunViewController-iPad.nib" "/Users/Sirmc/Programming/Xcode/Button Fun/Button_FunViewController-iPad.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/Sirmc/Programming/Xcode/Button Fun/Button_FunViewController.xib"
+s303927162.950035
+e303927166.860798
+r1
+xCompileXIB
+x/Users/Sirmc/Programming/Xcode/Button Fun/Button_FunViewController.xib
+lSLF07#2@39"CompileXIB Button_FunViewController.xib303927162#303927166#0(0"0(0#0#70"/Users/Sirmc/Programming/Xcode/Button Fun/Button_FunViewController.xib8614338592#681"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/Button_FunViewController.nib" "/Users/Sirmc/Programming/Xcode/Button Fun/Button_FunViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController.xib"
+r0
+
+CCompileXIB "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/OptionsViewController2.xib"
+r0
+
+CCompileXIB "/Users/Sirmc/Programming/Xcode/Button Fun/Classes/random.xib"
+r0
+
+CCompileXIB "/Users/Sirmc/Programming/Xcode/Button Fun/EntryViewController.xib"
+s303832891.411023
+e303832893.907689
+r1
+xCompileXIB
+x/Users/Sirmc/Programming/Xcode/Button Fun/EntryViewController.xib
+lSLF07#2@34"CompileXIB EntryViewController.xib303832891#303832893#0(0"0(0#0#65"/Users/Sirmc/Programming/Xcode/Button Fun/EntryViewController.xib8607331904#671"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/EntryViewController.nib" "/Users/Sirmc/Programming/Xcode/Button Fun/EntryViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/Sirmc/Programming/Xcode/Button Fun/MainWindow-iPad.xib"
+s303156871.696647
+e303156873.197597
+r1
+xCompileXIB
+x/Users/Sirmc/Programming/Xcode/Button Fun/MainWindow-iPad.xib
+lSLF07#2@30"CompileXIB MainWindow-iPad.xib303156871#303156873#0(0"0(0#0#61"/Users/Sirmc/Programming/Xcode/Button Fun/MainWindow-iPad.xib8605850464#663"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/MainWindow-iPad.nib" "/Users/Sirmc/Programming/Xcode/Button Fun/MainWindow-iPad.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/Sirmc/Programming/Xcode/Button Fun/MainWindow.xib"
+s303927162.949183
+e303927166.860558
+r1
+xCompileXIB
+x/Users/Sirmc/Programming/Xcode/Button Fun/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib303927162#303927166#0(0"0(0#0#56"/Users/Sirmc/Programming/Xcode/Button Fun/MainWindow.xib8614471872#653"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/MainWindow.nib" "/Users/Sirmc/Programming/Xcode/Button Fun/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/Sirmc/Programming/Xcode/Button Fun/OptionsViewController.xib"
+s303927166.864615
+e303927167.591753
+r1
+xCompileXIB
+x/Users/Sirmc/Programming/Xcode/Button Fun/OptionsViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/Sirmc/Programming/Xcode/Button Fun/OptionsViewController.xib:33: warning: This bar button item has a custom title but uses one of the system identifiers. As these attributes are mutually exclusive, the title will be ignored.
+lSLF07#2@36"CompileXIB OptionsViewController.xib303927166#303927167#0(273"/* com.apple.ibtool.document.warnings *//Users/Sirmc/Programming/Xcode/Button Fun/OptionsViewController.xib:33: warning: This bar button item has a custom title but uses one of the system identifiers. As these attributes are mutually exclusive, the title will be ignored.1(22@150"This bar button item has a custom title but uses one of the system identifiers. As these attributes are mutually exclusive, the title will be ignored.303927167#18446744073709551615#0#0(6@67"/Users/Sirmc/Programming/Xcode/Button Fun/OptionsViewController.xib303837974#33#0#33#0#0"0(0#0#67"/Users/Sirmc/Programming/Xcode/Button Fun/OptionsViewController.xib8615381440#675"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/OptionsViewController.nib" "/Users/Sirmc/Programming/Xcode/Button Fun/OptionsViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/Sirmc/Programming/Xcode/Button Fun/TestView.xib"
+r0
+
+CCpResource "build/Debug-iphonesimulator/CoffeTeaTimer.app/coffee icon white.png" "coffee icon white.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/CoffeTeaTimer.app/coffee icon.png" "coffee icon.png"
+s302871780.863641
+e302871780.961093
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CoffeTeaTimer.app/coffee icon.png
+xcoffee icon.png
+lSLF07#2@20"Copy coffee icon.png302871780#302871780#0(0"0(0#0#57"/Users/Sirmc/Programming/Xcode/Button Fun/coffee icon.png8618076160#542"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Sirmc/Programming/Xcode/Button Fun/coffee icon.png" "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app"0#
+
+CCpResource "build/Debug-iphonesimulator/CoffeTeaTimer.app/icon copy.png" "icon copy.png"
+r0
+
+CCpResource build/Debug-iphonesimulator/CoffeTeaTimer.app/coffee.png coffee.png
+s303927166.860886
+e303927166.971688
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CoffeTeaTimer.app/coffee.png
+xcoffee.png
+lSLF07#2@15"Copy coffee.png303927166#303927166#0(0"0(0#0#52"/Users/Sirmc/Programming/Xcode/Button Fun/coffee.png8619689536#537"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Sirmc/Programming/Xcode/Button Fun/coffee.png" "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app"0#
+
+CCpResource build/Debug-iphonesimulator/CoffeTeaTimer.app/icon.png icon.png
+s302872899.882262
+e302872899.897176
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CoffeTeaTimer.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png302872899#302872899#0(0"0(0#0#50"/Users/Sirmc/Programming/Xcode/Button Fun/icon.png8622686112#535"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Sirmc/Programming/Xcode/Button Fun/icon.png" "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app"0#
+
+CCpResource build/Debug-iphonesimulator/CoffeTeaTimer.app/icon_white.png icon_white.png
+s303927166.861843
+e303927166.988615
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CoffeTeaTimer.app/icon_white.png
+xicon_white.png
+lSLF07#2@19"Copy icon_white.png303927166#303927166#0(0"0(0#0#56"/Users/Sirmc/Programming/Xcode/Button Fun/icon_white.png8615910976#541"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Sirmc/Programming/Xcode/Button Fun/icon_white.png" "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app"0#
+
+CCpResource build/Debug-iphonesimulator/CoffeTeaTimer.app/iconc.png iconc.png
+s302873028.750054
+e302873028.765131
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CoffeTeaTimer.app/iconc.png
+xiconc.png
+lSLF07#2@14"Copy iconc.png302873028#302873028#0(0"0(0#0#51"/Users/Sirmc/Programming/Xcode/Button Fun/iconc.png8618884896#536"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Sirmc/Programming/Xcode/Button Fun/iconc.png" "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app"0#
+
+CCpResource build/Debug-iphonesimulator/CoffeTeaTimer.app/river.caf river.caf
+s303927166.999099
+e303927167.171764
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CoffeTeaTimer.app/river.caf
+xriver.caf
+lSLF07#2@14"Copy river.caf303927166#303927167#0(0"0(0#0#51"/Users/Sirmc/Programming/Xcode/Button Fun/river.caf8614714880#536"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Sirmc/Programming/Xcode/Button Fun/river.caf" "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app"0#
+
+CCpResource build/Debug-iphonesimulator/CoffeTeaTimer.app/river.wav river.wav
+s303927166.863852
+e303927166.998861
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CoffeTeaTimer.app/river.wav
+xriver.wav
+lSLF07#2@14"Copy river.wav303927166#303927166#0(0"0(0#0#51"/Users/Sirmc/Programming/Xcode/Button Fun/river.wav8615557312#536"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Sirmc/Programming/Xcode/Button Fun/river.wav" "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app"0#
+
+CCpResource build/Debug-iphonesimulator/CoffeTeaTimer.app/white.png white.png
+s303927166.862593
+e303927166.978137
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CoffeTeaTimer.app/white.png
+xwhite.png
+lSLF07#2@14"Copy white.png303927166#303927166#0(0"0(0#0#51"/Users/Sirmc/Programming/Xcode/Button Fun/white.png8615842400#536"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Sirmc/Programming/Xcode/Button Fun/white.png" "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app"0#
+
+CGenerateDSYMFile "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app.dSYM" "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/CoffeTeaTimer"
+s303927169.564342
+e303927169.588225
+r1
+xGenerateDSYMFile
+x/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app.dSYM
+x/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/CoffeTeaTimer
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/CoffeTeaTimer.app.dSYM build/Debug-iphonesimulator/CoffeTeaTimer.app/CoffeTeaTimer303927169#303927169#0(0"0(0#0#101"/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/CoffeTeaTimer8615424128#478"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/CoffeTeaTimer" -o "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app.dSYM"0#
+
+CLd "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/CoffeTeaTimer" normal i386
+s303927169.527512
+e303927169.564230
+r1
+xLd
+x/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/CoffeTeaTimer
+xnormal
+xi386
+lSLF07#2@106"Link /Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/CoffeTeaTimer303927169#303927169#0(0"0(0#0#0"8612894784#1041"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator" "-F/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator" -filelist "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/Objects-normal/i386/CoffeTeaTimer.LinkFileList" -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -o "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/CoffeTeaTimer"0#
+
+CProcessInfoPlistFile "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/Info.plist" Button_Fun-Info.plist
+s303927162.881941
+e303927162.949070
+r1
+xProcessInfoPlistFile
+x/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/Info.plist
+xButton_Fun-Info.plist
+lSLF07#2@29"Process Button_Fun-Info.plist303927162#303927162#0(0"0(0#0#63"/Users/Sirmc/Programming/Xcode/Button Fun/Button_Fun-Info.plist8615037600#571"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Button_Fun-Info.plist -genpkginfo "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app/Info.plist"0#
+
+CProcessPCH /var/folders/TO/TOiYaXy+HQqEyizfEkknNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-foutsfyixlxdeaexbsqghlovphsu/Button_Fun_Prefix.pch.gch Button_Fun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s303927167.591895
+e303927169.224764
+r1
+xProcessPCH
+x/var/folders/TO/TOiYaXy+HQqEyizfEkknNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-foutsfyixlxdeaexbsqghlovphsu/Button_Fun_Prefix.pch.gch
+xButton_Fun_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Button_Fun_Prefix.pch303927167#303927169#0(0"0(0#0#63"/Users/Sirmc/Programming/Xcode/Button Fun/Button_Fun_Prefix.pch8601405504#2010"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-generated-files.hmap" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-own-target-headers.hmap" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-all-target-headers.hmap" -iquote "/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/CoffeTeaTimer-project-headers.hmap" "-F/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/include" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/DerivedSources/i386" "-I/Users/Sirmc/Programming/Xcode/Button Fun/build/CoffeTeaTimer.build/Debug-iphonesimulator/CoffeTeaTimer.build/DerivedSources" -c "/Users/Sirmc/Programming/Xcode/Button Fun/Button_Fun_Prefix.pch" -o /var/folders/TO/TOiYaXy+HQqEyizfEkknNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-foutsfyixlxdeaexbsqghlovphsu/Button_Fun_Prefix.pch.gch0#
+
+CTouch "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app"
+s303927169.588325
+e303927169.594153
+r1
+xTouch
+x/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app
+lSLF07#2@93"Touch /Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app303927169#303927169#0(0"0(0#0#0"8614932928#356"    cd "/Users/Sirmc/Programming/Xcode/Button Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/Sirmc/Programming/Xcode/Button Fun/build/Debug-iphonesimulator/CoffeTeaTimer.app"0#
+
